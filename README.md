@@ -10,4 +10,5 @@ This project aims to provide detailed insight into the layoffs happend in worldw
 Layoffs Data: The primary dataset used for this analysis is the " Laoffs.csv" file, containing information about global layoffs.
 
 ### Data Set Used
-- <href="https://github.com/Prajna-adi/project.-tableau/blob/main/Tableau-layoffs.csv">Data Set</a>
+
+- <a href="https://github.com/Prajna-adi/project.-tableau/blob/main/Tableau-layoffs.csv">Data Set</a>
