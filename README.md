@@ -14,3 +14,6 @@ Layoffs Data: The primary dataset used for this analysis is the " Laoffs.csv" fi
 - <a href="https://github.com/Prajna-adi/project.-tableau/blob/main/Tableau-layoffs.csv">Data Set</a>
 
 -Dash Interaction <a href="https://github.com/Prajna-adi/project.-tableau/blob/main/Tableau%20Dashboard.png"> View Dashboard</a>
+
+###Dashboard
+C:\Users\adity\Dropbox\Screenshots
